@@ -5,7 +5,7 @@
 
 InfluxDB2::FLUX module allows you to interact with the FLUX API. The module is STILL
 under heavy development. and does not have much today. Only one InfluxDB2 FLUX API
-endpoint for </health>.
+endpoint for <health>.
 
 
 ## INSTALLATION
