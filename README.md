@@ -1,4 +1,4 @@
-# InfluxDB2::FLUX - Experimental Perl Module to interact with InfluxData Flux API!
+# InfluxDB2::FLUX - Perl Module to interact with InfluxData!
 
 
 ## Not ready for production yet!
