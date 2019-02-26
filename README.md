@@ -1,11 +1,11 @@
-# InfluxDBv2::API - Perl Mod to interact with InfluxData v2 API
+# Influxdb2-perl - Perl Mod to interact with InfluxDBv2 of the API
 
 
 ## Not ready for production yet!
 
-InfluxDB2::FLUX module allows you to interact with the Version2 API of Influxdata. The module is STILL
-under heavy development. and does not have much today. Only one InfluxDB v2 API
-endpoint for <health>.
+Influxdb2-perl module allows you to interact with the Version2 API of InfluxDB. The module is STILL
+under heavy development. and does not have much. Only one API
+endpoint is available today for <health>.
 
 
 ## INSTALLATION
@@ -19,7 +19,7 @@ To install this module, run the following commands:
 
 ## SYNOPSIS
 
-Passing <host> and <port> is optional, defaulting to the InfluxDB2.0 defaults. Returns
+Passing <host> and <port> is optional, defaulting to the Influxdb2-perl defaults. Returns
 an instance of InfluxDB2::FLUX.
 
 ```
