@@ -1,4 +1,4 @@
-# Influxdb2-perl - Perl Mod to interact with InfluxDBv2 of the API
+# Influxdb2-perl - Perl Mod to interact with InfluxDBv2 API
 
 
 ## Not ready for production yet!
